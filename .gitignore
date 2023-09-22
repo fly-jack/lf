@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 node_modules
+=======
+# 忽略 node_modules 目录
+/node_modules
+/unpackage/dist
+>>>>>>> 9b47ea8 (初始化)
